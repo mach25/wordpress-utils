@@ -9,7 +9,12 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <licenses>
-        <license>MIT</license>
+        <license>
+            <name>The MIT License (MIT)</name>
+            <url>https://opensource.org/licenses/MIT</url>
+            <distribution>repo</distribution>
+            <comments>The MIT License (MIT)</comments>
+        </license>
     </licenses>
 
     <properties>
